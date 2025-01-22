@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import * as marked from 'marked';
+import { marked } from 'marked';
 import "./MarkdownPreviewer.css";
 
 const MarkdownPreviewer = () => {
