@@ -1,0 +1,22 @@
+.markdown-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  .editor {
+    width: 80%;
+    height: 200px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .preview {
+    width: 80%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #f7f7f7;
+    min-height: 200px;
+  }
+  
